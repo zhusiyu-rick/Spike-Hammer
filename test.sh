@@ -1,0 +1,1 @@
+python test.py -c conf/deap/LOSO.yml --model sdt --spike-mode lif --resume ./output/train/20250411-230700-sdt-data-DEAP-t-4-spike-lif--LOSO-current_idx-1-current_trail_idx-0-label_index-0/checkpoint-0.pth.tar --no-resume-opt 

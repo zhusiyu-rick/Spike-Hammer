@@ -1,0 +1,1 @@
+python train.py -c conf/deap/LOSO.yml --model sdt --spike-mode lif --current-idx 1
