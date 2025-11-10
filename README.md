@@ -40,7 +40,7 @@ python train.py -c conf/hci/LOSO.yml --model sdt --spike-mode lif --current-idx 
 ```
 
 ### Inference
-To inference, first modify the inference model path `--model_path` in `test_msc_flip_voc` or `test_msc_flip_voc`
+To inference, first modify the inference model path 
 
 Then, run the following code:
 ```bash
